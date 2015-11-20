@@ -12,6 +12,7 @@
     hydropower potential under different scenarios of climate change.
     
     Further details available here:
+    https://github.com/JamesSample/simple_hydropower_model
     
     Future Flows data available here:    
     https://catalogue.ceh.ac.uk/documents/f3723162-4fed-4d9d-92c6-dd17412fa37b
