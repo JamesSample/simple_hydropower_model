@@ -7,6 +7,7 @@
 #
 # Created:     
 # Copyright:   (c) James Sample and JHI, 2014
+# License:     https://github.com/JamesSample/simple_hydropower_model/blob/master/LICENSE 
 #------------------------------------------------------------------------------
 """ This code uses the Future Flows (FF) data to esimate run-of-river 
     hydropower potential under different scenarios of climate change.
